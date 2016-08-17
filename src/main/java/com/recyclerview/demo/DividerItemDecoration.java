@@ -30,6 +30,7 @@ import android.view.View;
  * This class is from the v7 samples of the Android SDK. It's not by me!
  * <p/>
  * See the license above for details.
+ * 自定义分割线时使用
  */
 public class DividerItemDecoration extends RecyclerView.ItemDecoration
 {
