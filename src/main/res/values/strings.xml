@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="action_title_listview">listview</string>
+    <string name="action_title_gridview">gridview</string>
+    <string name="action_title_horizontal_gridview">horizontal_gridview</string>
+</resources>
